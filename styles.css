@@ -1,0 +1,88 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Inconsolata', monospace;
+  background-color: #f2f4fb;
+}
+div{
+
+  position: relative;
+  padding:  100px;
+}
+
+h1{
+  margin: 50px auto 0px auto;
+  font-family: 'Pacifico', cursive;
+  font-size: 90px;
+  color: #66BFBF;
+}
+.pro{
+  font-size: 2.5rem;
+  font-weight: normal;
+  height: 108.800px;
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Comic Neue', cursive;
+  font-size: 40px;
+}
+p{
+  font-family: 'Bree Serif', serif;
+  font-size: 20px;
+}
+h3,a{
+  color: #11999E;
+  font-size: 20px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.topcloud{
+position: absolute;
+right: 300px;
+top: 50px;
+}
+/* Charlie */
+hr {
+  border: dotted #b2ebf2 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+
+
+.middle-container{
+  background-color: white;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  font-size: 10px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 44.8px;
+}
+.web-dev{
+  width: 25%;
+  float: left;
+}
+.web-devs{
+  width: 25%;
+  float: right;
+}
+
+.btn{
+  background: #11999E;
+  color: #FFFFFF;
+  font-family: serif;
+  font-size: 30px;
+  padding: 9px;
+  text-align: center;
+
+}
